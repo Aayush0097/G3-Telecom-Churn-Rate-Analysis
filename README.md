@@ -30,4 +30,5 @@ The churn rate is also known as the rate of attrition. In other words, the rate 
 9.	Build a Dashboard with the KPI strip (Questions 1-3) and the 4 visualizations [2marks] 
 10.	Draw 3 recommendations on how G3 telecom can improve their services to improve the current churn rate. [1 mark]
 
-![image](https://github.com/Aayush0097/G3-Telecom-Churn-Rate-Analysis/assets/134658430/529e6dd4-bd1d-455f-a52c-a3a053d09049)
+<img width="676" alt="image" src="https://github.com/Aayush0097/G3-Telecom-Churn-Rate-Analysis/assets/134658430/408d78c4-406b-46a7-aad3-ebc122f69b4b">
+
